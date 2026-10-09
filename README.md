@@ -1,122 +1,34 @@
-# 🇦🇪 RoomUAE
+# 🇦🇪 ServUAE
 
-**Find your room. Find your bed. Find your place.**
+**One Platform. Every Service. Across the UAE.**
 
-RoomUAE is an open-source platform for discovering rooms, bed spaces, partitions and shared accommodation across the UAE.
+ServUAE is an open-source service management and marketplace platform connecting customers, service providers, maintenance companies, and enterprise systems across the United Arab Emirates.
 
-## 🎯 Vision
+The platform supports cleaning companies, HVAC contractors, CCTV installation providers, smart home integrators, electrical and plumbing services, and other home and commercial service businesses.
 
-Make finding affordable shared accommodation in the UAE easier, faster and more transparent.
+ServUAE provides a centralized administration dashboard, a customer-facing web platform, a mobile application, provider dashboards, and a secure API for integration with existing company systems.
 
-## ✨ Features
+## Vision
 
-* 🔎 Search rooms and bed spaces
-* 📍 Location-based search
-* 🗺️ Interactive map
-* 💰 Budget filtering
-* 📅 Availability dates
-* 🛏️ Bed Space / Shared Room / Private Room / Partition
-* ❤️ Favorites
-* 💬 Contact property providers
-* 📅 Viewing requests
-* ⭐ Reviews
-* 🛡️ Listing verification
-* 🔔 Saved-search notifications
+Build a unified, extensible, and transparent digital infrastructure for discovering, booking, managing, and delivering services throughout the UAE.
 
-## 🛠️ Tech Stack
+## Core Principles
 
-* Laravel
-* PHP
-* MySQL
-* Blade
-* Tailwind CSS
-* Alpine.js
-* Vite
+* Open-source and community-driven development.
+* Centralized platform management.
+* Multi-company and multi-service support.
+* Mobile-first customer experience.
+* API-first integration with business systems.
+* Secure access control and auditability.
+* Scalable architecture for future expansion.
 
-## 🚀 Getting Started
+## Target Markets
 
-Clone the repository:
-
-```bash
-git clone https://github.com/AsmarWeb/roomuae.git
-cd roomuae
-```
-
-Install dependencies:
-
-```bash
-composer install
-npm install
-```
-
-Create your environment file:
-
-```bash
-cp .env.example .env
-php artisan key:generate
-```
-
-Configure your database in `.env`.
-
-Run migrations:
-
-```bash
-php artisan migrate
-```
-
-Start the development environment:
-
-```bash
-php artisan serve
-npm run dev
-```
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-Before starting work, please read:
-
-`CONTRIBUTING.md`
-
-You can contribute by:
-
-* Fixing bugs
-* Improving UI/UX
-* Adding tests
-* Improving documentation
-* Adding new features
-* Improving accessibility
-* Improving performance
-
-## 🗺️ Roadmap
-
-### Phase 1 — MVP
-
-* [ ] Authentication
-* [ ] Listings
-* [ ] Search
-* [ ] Filters
-* [ ] Location
-* [ ] Availability
-* [ ] Favorites
-
-### Phase 2
-
-* [ ] Interactive map
-* [ ] Viewing requests
-* [ ] Messaging
-* [ ] Reviews
-* [ ] Listing verification
-
-### Phase 3
-
-* [ ] Notifications
-* [ ] Provider dashboard
-* [ ] Analytics
-* [ ] Featured listings
-* [ ] Mobile experience
-
-## 📄 License
-
-This project is open source. See `LICENSE` for details.
+* Residential customers.
+* Commercial and office properties.
+* Cleaning and facility management companies.
+* HVAC and air-conditioning contractors.
+* CCTV and security system installers.
+* Smart home and automation providers.
+* Electrical, plumbing, and general maintenance companies.
+* Property management companies and enterprise clients.
